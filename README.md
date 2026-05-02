@@ -106,7 +106,7 @@ outputs/
 ---
 
 
-## 📌 Notes
+## Notes
 
 * Place input video inside `videos/` folder
 * Update file paths if needed
@@ -114,13 +114,13 @@ outputs/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Logavarshini K
 B.Tech – Robotics & AI (2026)
 
 ---
 
-## 📄 License
+## License
 
 For academic and learning purposes.
