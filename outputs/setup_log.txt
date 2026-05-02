@@ -1,0 +1,5 @@
+=== SETUP LOG ===
+Timestamp: 2025-11-07 23:42:20.159533
+
+opencv_version: 4.10.0
+numpy_version: 2.2.6
