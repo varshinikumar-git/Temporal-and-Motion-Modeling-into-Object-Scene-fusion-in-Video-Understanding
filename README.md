@@ -131,8 +131,8 @@ Temporal-and-Motion-Modeling/
 
 ## Author
 
-**Logavarshini K**
-B.Tech – Robotics & Artificial Intelligence
+Logavarshini K <br>
+B.Tech Robotics and Artificial Intelligence
 
 ---
 
